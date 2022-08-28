@@ -15,7 +15,7 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 
 ## Useful Links
 
-* Canvas [web site](https://princeton.instructure.com/courses/4153)
+* Canvas [web site](https://princeton.instructure.com/courses/7820)
 * Zoom links and TA contact information can be found on Canvas.
 * Other useful docs:
     * [Assignment Logistics](https://docs.google.com/viewer?url=https://github.com/JHA-Lab/ece364/raw/main/Assignment%20Logistics.pdf)
@@ -25,21 +25,18 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 ## Course staff
 
 * Instructor: [Niraj K. Jha](https://www.princeton.edu/~jha/)
-* TAs: Shikhar Tuli, Bhishma Dedhia, Vincent Li, Chang Yue, Colin Reilly
+* TAs: Hongjie Wang, Alexander La Cour
 
 ## Timings
 
-* Lectures: Tue/Thurs 3:00-4:20pm (Burr Hall 219)
+* Lectures: Tue/Thurs 3:00-4:20pm (EQuad B205)
 * Office hours:
     * Niraj K. Jha: Tue/Thurs 2:00-3:00pm
-    * Shikhar Tuli: Tue/Thurs 12:30-1:30pm
-    * Bhishma Dedhia: Mon/Fri 3:30pm-4:30pm
-    * Vincent Li: Mon/Wed 3:30-4:30pm
-    * Chang Yue: Thurs 4:30-5:30pm, Fri 1:00-2:00pm
-    * Colin Reilly: Mon/Wed 11:00am-12:00pm
- 
+    * Hongjie Wang: Tue/Thurs 11:00am-12:00pm
+    * Alexander La Cour: Mon/Wed 2:00pm-3:00pm
+
  ## Grading
- 
+
  * Assignments (25%):
      * A0: no grade
      * A1-A5: written theory portion (40 pts), Google Colab programming portion (20 pts)
@@ -54,7 +51,7 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 ## License
 
 BSD-3-Clause. 
-Copyright (c) 2021, JHA-Lab.
+Copyright (c) 2022, JHA-Lab.
 All rights reserved.
 
 See License file for more details.
